@@ -11,5 +11,5 @@ Repositorio De La Clase De POO
 * 20% Parcial
 * 10% Ensayo - trabajos escritos
 
-*Link Repositorio Profe -> https://github.com/lufe089/POO*
-*Link Proyecto 1 -> https://github.com/sgomez1205*
+* *Link Repositorio Profe -> https://github.com/lufe089/POO*
+* *Link Proyecto 1 -> https://github.com/sgomez1205*
