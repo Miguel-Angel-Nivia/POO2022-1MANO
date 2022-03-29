@@ -12,5 +12,6 @@ Repositorio De La Clase De POO
 * 10% Ensayo - trabajos escritos
 
 > * *Link Repositorio Profe -> https://github.com/lufe089/POO*
-> * *Link Proyecto 1 -> https://github.com/sgomez1205*
+> * *Link Proyecto 1(Sebastián Gómez) -> https://github.com/sgomez1205*
 > * *Link Repositorio de Jose Manuel Garcia -> https://github.com/joseman1909/POO-2022.git*
+> * *Link Repositorio de Wilian Chapid -> https://github.com/Wislian/Referencia*
